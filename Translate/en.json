@@ -1,0 +1,6 @@
+{
+  "welcome": "Welcome",
+  "action": {
+      "toggleLang": "switch to fr"
+  }
+}
